@@ -16,6 +16,7 @@ import {
 	UseModalState,
 	OpenModalDispatchPayload
 } from '.';
+// do I want to force react router dom opt in?
 import { useHistory } from 'react-router-dom';
 
 type Action =
